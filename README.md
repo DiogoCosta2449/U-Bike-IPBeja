@@ -1,4 +1,4 @@
-\# Projeto U-Bike IPBeja
+# Projeto U-Bike IPBeja
 
 
 
@@ -10,7 +10,7 @@ O trabalho foi realizado em contexto académico e tem como objetivo a análise e
 
 
 
-\## Sobre o projeto
+## Sobre o projeto
 
 
 
@@ -18,25 +18,25 @@ O sistema modelado procura representar o funcionamento de uma plataforma de bici
 
 
 
-\- registo de utilizadores;
+- registo de utilizadores;
 
-\- autenticação;
+- autenticação;
 
-\- gestão de perfil;
+- gestão de perfil;
 
-\- registo de bicicletas;
+- registo de bicicletas;
 
-\- devolução de bicicletas;
+- devolução de bicicletas;
 
-\- consulta do histórico de utilização;
+- consulta do histórico de utilização;
 
-\- gestão de utilizadores;
+- gestão de utilizadores;
 
-\- consulta de estatísticas.
+- consulta de estatísticas.
 
 
 
-\## Ferramentas utilizadas
+## Ferramentas utilizadas
 
 
 
@@ -44,17 +44,17 @@ Para desenvolver o projeto foram utilizadas várias ferramentas de apoio ao trab
 
 
 
-\- \*\*Visual Paradigm\*\* – modelação UML;
+- \*\*Visual Paradigm\*\* – modelação UML;
 
-\- \*\*GitHub\*\* – controlo de versões e partilha de ficheiros;
+- \*\*GitHub\*\* – controlo de versões e partilha de ficheiros;
 
-\- \*\*Trello\*\* – organização e acompanhamento de tarefas;
+- \*\*Trello\*\* – organização e acompanhamento de tarefas;
 
-\- \*\*Scrum\*\* – apoio à divisão e gestão do trabalho.
+- \*\*Scrum\*\* – apoio à divisão e gestão do trabalho.
 
 
 
-\## Organização do trabalho
+## Organização do trabalho
 
 
 
@@ -68,7 +68,7 @@ O GitHub ajudou a manter os ficheiros organizados, a guardar o histórico das al
 
 
 
-\## Conteúdo do repositório
+## Conteúdo do repositório
 
 
 
@@ -76,18 +76,15 @@ Neste repositório encontram-se os principais ficheiros do projeto, nomeadamente
 
 
 
-\- o ficheiro do projeto do Visual Paradigm (`.vpp`);
+- o ficheiro do projeto do Visual Paradigm (`.vpp`);
+- 
 - backups;
 
-\- documentação de apoio;
-
-\- relatório final;
-
-\- outros materiais relevantes para o desenvolvimento do trabalho.
+- outros materiais relevantes para o desenvolvimento do trabalho.
 
 
 
-\## Autores
+## Autores
 
 
 
