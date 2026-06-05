@@ -77,7 +77,7 @@ Neste repositório encontram-se os principais ficheiros do projeto, nomeadamente
 
 
 - o ficheiro do projeto do Visual Paradigm (`.vpp`);
-- 
+
 - backups;
 
 - outros materiais relevantes para o desenvolvimento do trabalho.
